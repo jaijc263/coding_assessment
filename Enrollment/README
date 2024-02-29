@@ -1,0 +1,6 @@
+***********************************************Enrollment Processor App*************************************************
+
+- To run this application, please add the csv file into resources folder
+- Provide input csv file name at inputFilePath in EnrollmentCSVProcessor.java
+- Run EnrollmentCSVProcessor.java main
+- find the output file the Enrollment project root folder
